@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Tu</h1>
 <p>A creative frontend developer from Viet Nam</p>
 <p>WordPress, Shopify, or fully custom — I build conversion-optimized stores and portfolios with payment integration that sends orders straight to your inbox.</p>
-<a>https://ollysmith.store/</a>
+<a target="_blank" href="https://ollysmith.store">https://ollysmith.store/</a>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
