@@ -8,7 +8,25 @@
 ---
 
 📱 Mobile App Development Stack
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/swmansion/swmansion-icon.svg" alt="Reanimated" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="45" height="45"/> </p>
+<p align="left">
+  <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/></a>
+  <a href="https://expo.dev/"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="50"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></a>
+  <a href="https://docs.swmansion.com/react-native-reanimated/"><img src="https://www.vectorlogo.zone/logos/swmansion/swmansion-icon.svg" width="50"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></a>
+  <a href="https://supabase.com/"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50"/></a>
+</p>
 
 🛠️ Other Languages & Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/> </p> <p align="left"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</p>
